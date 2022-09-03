@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1662177964 source:/home/cailis/Desktop/MatrixP/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/mman.h>
+	<string.h>
+	<pthread.h>
+	<time.h>
+	<unistd.h>
+

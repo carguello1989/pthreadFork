@@ -1,0 +1,73 @@
+------Start process------
+
+------Process number: 
+0
+------Process time SECONDS: 
+0.006425
+------End process------
+------Start process------
+
+------Process number: 
+1
+------Process time SECONDS: 
+0.002247
+------End process------
+------Start process------
+
+------Process number: 
+2
+------Process time SECONDS: 
+0.001271
+------End process------
+------Start process------
+
+------Process number: 
+3
+------Process time SECONDS: 
+0.001906
+------End process------
+------Start process------
+
+------Process number: 
+4
+------Process time SECONDS: 
+0.001152
+------End process------
+------Start process------
+
+------Process number: 
+5
+------Process time SECONDS: 
+0.002847
+------End process------
+------Start process------
+
+------Process number: 
+6
+------Process time SECONDS: 
+0.005445
+------End process------
+------Start process------
+
+------Process number: 
+7
+------Process time SECONDS: 
+0.005910
+------End process------
+------Start process------
+
+------Process number: 
+8
+------Process time SECONDS: 
+0.005575
+------End process------
+------Start process------
+
+------Process number: 
+9
+------Process time SECONDS: 
+0.006441
+------End process------
+
+------Process time Final SECONDS: 
+0.039219

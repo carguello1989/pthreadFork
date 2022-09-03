@@ -1,0 +1,4 @@
+Crear makefile
+gcc main.c -o MatrixT
+Run Makefile
+./MatrixT
